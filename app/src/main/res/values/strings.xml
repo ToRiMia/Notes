@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="label_day_of_week">День тижня:</string>
+    <string name="hint_title">Заголовок нотатки:</string>
+    <string name="hint_description">Опис нотатки:</string>
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+    <string name="button_save_note">ДОДАТИ НОТАТКУ</string>
+    <string name="warning_fill_fileds">Заповніть поле заголовок</string>
+
+    <string-array name="days_of_week">
+        <item>Понеділок</item>
+        <item>Вівторок</item>
+        <item>Середа</item>
+        <item>Четвер</item>
+        <item>П\'ятница</item>
+        <item>Субота</item>
+        <item>Неділя</item>
+    </string-array>
+</resources>
